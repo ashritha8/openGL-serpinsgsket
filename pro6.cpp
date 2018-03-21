@@ -1,5 +1,4 @@
-// pro6.cpp : Defines the entry point for the console application.
-//
+Develop a menu driven program to fill the polygon using scan line algorithm.
 
 #include "stdafx.h"
 #include<stdlib.h>
