@@ -1,3 +1,4 @@
+Clipping a line using cohen sutherland algorithm.
 #include "stdafx.h"
 #include<stdio.h>
 #include<GL/glut.h>
