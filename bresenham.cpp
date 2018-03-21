@@ -1,5 +1,4 @@
-// bresenham.cpp : Defines the entry point for the console application.
-//
+Implementation Bresenham's line algorithm for all types of slope.
 
 #include "stdafx.h"
 #include<GL/glut.h>
